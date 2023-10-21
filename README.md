@@ -1,5 +1,5 @@
 # ThreeMusketeers
-3 Musketeers Java game with 1-2 player functionality.
+3 Musketeers Java game with 1-2 player functionality, implementing OOP as well as SOLID design principles.
 
 The game starts with a 5 by 5 board. 
 There are 3 musketeer pieces that are placed in the middle, top right corner and bottom left corner. The rest are occupied by the guard pieces (enemy).
